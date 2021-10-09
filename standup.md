@@ -1,13 +1,19 @@
-# Name:
+# Members Attended:
 # Date: 
 
 ## Summary
 
-## Progress
+# Progress:
 
 ## Finished Tasks
+- [ ] 
+- [ ]
+- [ ]
 
 ## New Tasks/Assignments
+- [ ]
+- [ ]
+- [ ]
 
 ## New Info
 
